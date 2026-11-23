@@ -1,0 +1,15 @@
+date,gc_close,price_change,oi_total,oi_change,volume,oi_dec26,chg_dec26,oi_feb27,chg_feb27,roll_net(dec+feb),other_months_chg,reading,report
+2026-11-09,4114.5,,404462,2172,249833,245394,-10066,100616,11478,1412,760,,F
+2026-11-10,4030.2,-84.3,404725,263,258941,237556,-7838,106051,5435,-2403,2666,"Gia giam, OI tang: Short moi",F
+2026-11-11,4000.5,-29.7,411788,7063,175389,236238,-1318,112039,5988,4670,2393,"Gia giam, OI tang: Short moi",F
+2026-11-12,3885.3,-115.2,412603,815,293547,220388,-15850,125250,13211,-2639,3454,"Gia giam, OI tang: Short moi",F
+2026-11-13,3886.3,1.0,410376,-2227,191894,213477,-6911,128709,3459,-3452,1225,"Gia tang, OI giam: dong Short",F
+2026-11-16,3853.0,-33.3,406913,-3463,197893,204854,-8623,132658,3949,-4674,1211,"Gia giam, OI giam: dong Long",F
+2026-11-17,3864.2,11.2,407834,921,201053,195416,-9438,140476,7818,-1620,2541,"Gia tang, OI tang: Long moi",F
+2026-11-18,3741.9,-122.3,401569,-6265,315159,180952,-14464,146115,5639,-8825,2560,"Gia giam, OI giam: dong Long",F
+2026-11-19,3685.5,-56.4,399036,-2533,254271,171833,-9119,151333,5218,-3901,1368,"Gia giam, OI giam: dong Long",F
+2026-11-20,3515.4,-170.1,387546,-11490,441321,150028,-21805,160553,9220,-12585,1095,"Gia giam, OI giam: dong Long",P
+
+"# Nguon: CME Group Volume & OI, GC (product 437). F=final, P=preliminary. 20/11 la ban so bo; ban final chua ra luc 2026-11-23 19:59 VN."
+"# Phien 23/11: ban so bo ~13:00-13:30 VN 24/11, ban final ~23:00 VN 24/11 (uoc tinh theo gio cap nhat cac ngay truoc)."
+"# roll_net: Dec giam + Feb tang. Neu roll_net am, phan giam OI khong chi do chuyen ky han ma co vi the dong that."
