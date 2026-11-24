@@ -9,6 +9,7 @@ date,gc_close,price_change,oi_total,oi_change,volume,oi_dec26,chg_dec26,oi_feb27
 2026-11-18,3741.9,-122.3,401569,-6265,315159,180952,-14464,146115,5639,-8825,2560,"Gia giam, OI giam: dong Long",F
 2026-11-19,3685.5,-56.4,399036,-2533,254271,171833,-9119,151333,5218,-3901,1368,"Gia giam, OI giam: dong Long",F
 2026-11-20,3515.4,-170.1,387546,-11490,441321,150028,-21805,160553,9220,-12585,1095,"Gia giam, OI giam: dong Long",P
+2026-11-23,3651.4,136.0,383585,-3961,401014,107337,-42691,193969,33416,-9275,5314,"Gia tang, OI giam: dong Short",P
 
 "# Nguon: CME Group Volume & OI, GC (product 437). F=final, P=preliminary. 20/11 la ban so bo; ban final chua ra luc 2026-11-23 19:59 VN."
 "# Phien 23/11: ban so bo ~13:00-13:30 VN 24/11, ban final ~23:00 VN 24/11 (uoc tinh theo gio cap nhat cac ngay truoc)."
